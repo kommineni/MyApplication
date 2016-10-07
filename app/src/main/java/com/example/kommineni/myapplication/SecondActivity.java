@@ -14,5 +14,6 @@ public class SecondActivity extends Activity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.second_activity);
         TextView textView = (TextView) findViewById(R.id.textView);
+        System.out.print("Inside the SecondActivity in MyApplication");
     }
 }
