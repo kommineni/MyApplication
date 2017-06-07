@@ -9,5 +9,6 @@ public class ActivityThree extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_three);
+        System.out.println("This is last screen");
     }
 }
