@@ -9,9 +9,6 @@ public class ActivityThree extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_three);
-<<<<<<< HEAD
-        System.out.println("This is last screen \n Tesing for new feature");
-=======
->>>>>>> parent of e8290fe... no message
+        System.out.println("Activity Three");
     }
 }
