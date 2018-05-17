@@ -18,6 +18,7 @@ public class MainActivity extends AppCompatActivity {
         Toolbar toolbar = (Toolbar) findViewById(R.id.toolbar);
         setSupportActionBar(toolbar);
 
+	System.out.print("Inside the FirstActivity in MyApplication1111");
         System.out.print("Inside the FirstActivity in MyApplication");
         System.out.print("Inside the FirstActivity in MyApplication");
         System.out.print("Inside the FirstActivity in MyApplication");
